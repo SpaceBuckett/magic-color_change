@@ -1,16 +1,5 @@
 # colorpicker
 
-A new Flutter project.
+I tried to mimic the color selector screen of the Reflectly app. I am still learning to mimic its animations and will add in the upcomming commits. I smiply have used the listView builder to build the list of the limited color choices which can be increased with time by adding the values to the colorInfo class.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![colorPicker](https://user-images.githubusercontent.com/83302623/138684728-f9bff44f-6c26-4bc4-bbef-8fe6c79bfdc7.gif)
